@@ -106,10 +106,10 @@ public class Dashboard extends CustomStep {
 			break;
 		case "rateQuote":
 			getElementByUsing("Dashboard_RateQuote_Tab").isDisplayed();
-			getElementByUsing("Dashboard_RateQuote_Tab").click();
+			getElementByUsing("Dashboard_RateQuote_Tab1").click();
 			break;
 		}
-		System.out.println("LoanNumber now is---> " + loanNumber);
+		System.out.println("LoanNumber now is111---> " + loanNumber);
 
 		// To collect Dashboard loan details
 		HashMap<String, String> dashboardCardDetails = collectAppDashboardDetails(loanNumber);
