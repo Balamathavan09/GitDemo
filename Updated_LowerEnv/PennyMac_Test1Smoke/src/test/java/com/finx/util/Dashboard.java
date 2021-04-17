@@ -93,7 +93,7 @@ public class Dashboard extends CustomStep {
 		int num = driver.findElements(By.xpath(actCardDetailsElements.replace("%LN", loanNumber))).size();
 
 		if (num == 0)
-			getElementByUsing("Go_To_Dashboard_button").click();
+			getElementByUsing("Go_To_Dashboard_button1111188888").click();
 
 		switch (Status) {
 		case "inprogress":
