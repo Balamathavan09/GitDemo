@@ -1,0 +1,15 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Wed Nov 04 16:02:01 IST 2020,
+End Date   :  Wed Nov 04 16:04:50 IST 2020,
+Total Duration :0 Hours 2 Minutes 49 Seconds,
+Total Pass : 0,
+Total Fail : 2,
+Executed By : TI12215-BLR-L/sweata.shaw/OS-Windows 10,
+Groups: ppp,,
+URL :https://pnmac-cdp-qa.tavant.com/,
+Browser : Chrome 
+FE_LoanOnboarding001:Smoke Scenario Borrower-New User and Co-Borrower-Existing User LoanOnboarding With TestData :100:FE_Facta-001,Fail,Failed TestCase :FE_LoanOnboarding001:Smoke Scenario Borrower-New User and Co-Borrower-Existing User LoanOnboarding With TestData :100:FE_Facta-001<br><table border="1"> <tr> <th>StepId</th> <th>Action Name</th> <th>Package Name</th> <th>Custom Method Name</th></tr><tr><td>2</td><td></td><td>com.finx.util.WebService</td><td>checkCreatLoanforOffline</td></tr></table>
+Exception seen while fetching response for the url https://pnmac-cdp-qa.tavant.com/finexpprequal/onboardLoanApplication and exception is org.springframework.web.client.HttpServerErrorException: 500 null :<font color="solid orange">  Actual :[]</font><font color="EE7600"> Expected :[]</font><br> <b>Step Details:</b> <br><br> Duration>0 Hours 0 Minutes 37 Seconds
+FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b,Fail,Failed TestCase :FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b<br><table border="1"> <tr> <th>StepId</th> <th>Action Name</th> <th>Package Name</th> <th>Custom Method Name</th></tr><tr><td>2</td><td></td><td>com.finx.util.WebService</td><td>checkCreatLoanforOffline</td></tr></table>
+Exception seen while fetching response for the url https://pnmac-cdp-qa.tavant.com/finexpprequal/onboardLoanApplication and exception is org.springframework.web.client.HttpServerErrorException: 500 null :<font color="solid orange">  Actual :[]</font><font color="EE7600"> Expected :[]</font><br> <b>Step Details:</b> <br><br> Duration>0 Hours 2 Minutes 7 Seconds

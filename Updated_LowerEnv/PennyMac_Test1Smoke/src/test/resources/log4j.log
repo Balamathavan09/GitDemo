@@ -1,0 +1,757 @@
+2018-01-17 19:49:18 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:49:19 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:49:19 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:49:25 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:49:25 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:49:26 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:49:26 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:49:27 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:49:28 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:49:29 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:49:33 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:49:33 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:49:34 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:49:34 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:49:34 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:49:34 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:49:35 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:49:35 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:49:35 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-17 19:49:35 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:49:37 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-17 19:49:37 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-17 19:49:40 INFO  GetAQuote:232 - before select My property worth is
+2018-01-17 19:49:40 INFO  GetAQuote:234 - after select My property worth is
+2018-01-17 19:49:44 INFO  GetAQuote:232 - before select My existing balance on mortgage
+2018-01-17 19:49:45 INFO  GetAQuote:234 - after select My existing balance on mortgage
+2018-01-17 19:49:45 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:49:46 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:49:46 INFO  GetAQuote:232 - before select My property is located at
+2018-01-17 19:49:48 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:49:48 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:49:49 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:49:50 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:49:50 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:49:54 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:49:55 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:49:59 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:50:00 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:50:00 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:50:01 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:50:01 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-17 19:50:37 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-17 19:50:38 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-17 19:50:38 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-17 19:50:39 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-17 19:50:39 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-17 19:50:39 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-17 19:50:40 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-17 19:50:40 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-17 19:50:41 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-17 19:50:41 INFO  GetAQuote:232 - before select My total assets are
+2018-01-17 19:50:42 INFO  GetAQuote:234 - after select My total assets are
+2018-01-17 19:50:43 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-17 19:50:43 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-17 19:50:48 INFO  GetAQuote:234 - after select My property is located at
+2018-01-17 19:50:49 INFO  GetAQuote:232 - before select My property is a
+2018-01-17 19:50:49 INFO  GetAQuote:234 - after select My property is a
+2018-01-17 19:50:50 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-17 19:50:50 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-17 19:50:50 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-17 19:50:51 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-17 19:50:52 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-17 19:50:53 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-17 19:50:53 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-17 19:50:54 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-17 19:50:54 INFO  GetAQuote:232 - before select My total assets are
+2018-01-17 19:50:55 INFO  GetAQuote:234 - after select My total assets are
+2018-01-17 19:50:56 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:50:56 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-17 19:50:56 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:50:56 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-17 19:50:56 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:50:57 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:50:57 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:50:59 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:51:00 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:51:02 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-17 19:51:02 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-17 19:51:03 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-17 19:51:03 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-17 19:51:04 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-17 19:51:04 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:51:04 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-17 19:51:05 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:51:05 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-17 19:51:06 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:51:06 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-17 19:51:06 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:51:06 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-17 19:51:07 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-17 19:51:07 INFO  GetAQuote:232 - before select My total assets are
+2018-01-17 19:51:08 INFO  GetAQuote:234 - after select My total assets are
+2018-01-17 19:51:08 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-17 19:51:08 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-17 19:51:53 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:51:53 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:51:54 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:51:55 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:51:56 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:51:57 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:51:57 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:51:57 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:51:58 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:51:59 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:51:59 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:52:00 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:52:00 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:52:00 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:52:01 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:52:02 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:52:02 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:52:02 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:52:02 INFO  GetAQuote:258 - Executiong the exceed property value
+2018-01-17 19:52:03 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-17 19:52:03 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-17 19:52:04 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-17 19:52:04 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-17 19:52:06 INFO  GetAQuote:232 - before select My property worth is
+2018-01-17 19:52:06 INFO  GetAQuote:232 - before select My property worth is
+2018-01-17 19:52:07 INFO  GetAQuote:234 - after select My property worth is
+2018-01-17 19:52:07 INFO  GetAQuote:234 - after select My property worth is
+2018-01-17 19:52:09 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-17 19:52:09 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-17 19:52:10 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-17 19:52:10 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-17 19:52:10 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-17 19:52:11 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-17 19:52:11 INFO  GetAQuote:232 - before select My existing balance on mortgage/debt
+2018-01-17 19:52:11 INFO  GetAQuote:232 - before select My existing balance on mortgage/debt
+2018-01-17 19:52:12 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-17 19:52:12 INFO  GetAQuote:234 - after select My existing balance on mortgage/debt
+2018-01-17 19:52:12 INFO  GetAQuote:234 - after select My existing balance on mortgage/debt
+2018-01-17 19:52:12 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-17 19:52:13 INFO  GetAQuote:232 - before select I want to take additional cash of
+2018-01-17 19:52:13 INFO  GetAQuote:232 - before select I want to take additional cash of
+2018-01-17 19:52:13 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-17 19:52:13 INFO  GetAQuote:234 - after select I want to take additional cash of
+2018-01-17 19:52:13 INFO  GetAQuote:234 - after select I want to take additional cash of
+2018-01-17 19:52:14 INFO  GetAQuote:232 - before select My total assets are
+2018-01-17 19:52:14 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:52:14 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:52:14 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:52:14 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:52:15 INFO  GetAQuote:234 - after select My total assets are
+2018-01-17 19:52:15 INFO  GetAQuote:232 - before select My property is located at
+2018-01-17 19:52:15 INFO  GetAQuote:232 - before select My property is located at
+2018-01-17 19:52:15 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-17 19:52:16 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-17 19:52:51 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:52:52 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:52:53 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:52:54 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:52:58 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:52:59 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:53:15 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:53:15 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:53:16 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:53:17 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:53:17 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:53:17 INFO  GetAQuote:234 - after select My property is located at
+2018-01-17 19:53:18 INFO  GetAQuote:234 - after select My property is located at
+2018-01-17 19:53:18 INFO  GetAQuote:232 - before select My property is a
+2018-01-17 19:53:18 INFO  GetAQuote:234 - after select My property is a
+2018-01-17 19:53:18 INFO  GetAQuote:232 - before select My property is a
+2018-01-17 19:53:18 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:53:19 INFO  GetAQuote:234 - after select My property is a
+2018-01-17 19:53:19 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-17 19:53:19 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-17 19:53:19 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-17 19:53:19 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:53:19 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-17 19:53:20 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-17 19:53:20 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-17 19:53:20 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-17 19:53:21 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-17 19:53:21 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-17 19:53:21 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-17 19:53:22 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-17 19:53:22 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-17 19:53:22 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-17 19:53:22 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-17 19:53:23 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-17 19:53:23 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-17 19:53:23 INFO  GetAQuote:232 - before select My total assets are
+2018-01-17 19:53:23 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:53:24 INFO  GetAQuote:232 - before select My total assets are
+2018-01-17 19:53:24 INFO  GetAQuote:234 - after select My total assets are
+2018-01-17 19:53:24 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:53:24 INFO  GetAQuote:234 - after select My total assets are
+2018-01-17 19:53:25 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-17 19:53:25 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:53:25 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-17 19:53:25 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-17 19:53:25 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:53:25 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-17 19:53:26 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-17 19:54:16 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:54:16 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:54:18 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:54:18 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:54:19 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:54:20 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:54:24 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:54:26 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:54:26 INFO  GetAQuote:258 - Executiong the exceed property value
+2018-01-17 19:54:29 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-17 19:54:29 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-17 19:54:30 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-17 19:54:30 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-17 19:54:31 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-17 19:54:31 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-17 19:54:32 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-17 19:54:33 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-17 19:54:33 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-17 19:54:34 INFO  GetAQuote:232 - before select My total assets are
+2018-01-17 19:54:35 INFO  GetAQuote:234 - after select My total assets are
+2018-01-17 19:54:35 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-17 19:54:36 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-17 19:55:09 INFO  GetAQuote:130 - Validate +flow
+2018-01-17 19:55:10 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:55:10 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:55:11 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:55:11 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:55:12 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:55:18 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:55:19 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-17 19:55:19 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-17 19:55:20 INFO  GetAQuote:232 - before select I am looking to
+2018-01-17 19:55:21 INFO  GetAQuote:234 - after select I am looking to
+2018-01-17 19:55:21 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:55:22 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:55:22 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-17 19:55:23 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:55:23 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:55:23 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-17 19:55:27 INFO  GetAQuote:232 - before select I can put down
+2018-01-17 19:55:28 INFO  GetAQuote:234 - after select I can put down
+2018-01-17 19:55:29 INFO  GetAQuote:232 - before select My credit score is
+2018-01-17 19:55:29 INFO  GetAQuote:234 - after select My credit score is
+2018-01-17 19:55:29 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-19 17:15:52 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:15:52 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:15:52 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:15:53 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:15:53 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:15:55 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:15:55 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:15:55 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-19 17:15:55 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:15:55 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-19 17:15:56 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:15:56 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:15:58 INFO  GetAQuote:232 - before select My property worth is
+2018-01-19 17:15:58 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-19 17:15:58 INFO  GetAQuote:234 - after select My property worth is
+2018-01-19 17:15:59 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-19 17:16:02 INFO  GetAQuote:232 - before select My existing balance on mortgage
+2018-01-19 17:16:02 INFO  GetAQuote:232 - before select I can put down
+2018-01-19 17:16:02 INFO  GetAQuote:234 - after select My existing balance on mortgage
+2018-01-19 17:16:03 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:16:03 INFO  GetAQuote:234 - after select I can put down
+2018-01-19 17:16:03 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:16:04 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:16:04 INFO  GetAQuote:232 - before select My property is located at
+2018-01-19 17:16:04 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:16:04 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-19 17:16:07 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:16:07 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:16:08 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:16:09 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:16:09 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:16:10 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-19 17:16:10 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-19 17:16:13 INFO  GetAQuote:232 - before select My property worth is
+2018-01-19 17:16:14 INFO  GetAQuote:234 - after select My property worth is
+2018-01-19 17:16:18 INFO  GetAQuote:232 - before select My existing balance on mortgage/debt
+2018-01-19 17:16:19 INFO  GetAQuote:234 - after select My existing balance on mortgage/debt
+2018-01-19 17:16:19 INFO  GetAQuote:232 - before select I want to take additional cash of
+2018-01-19 17:16:20 INFO  GetAQuote:234 - after select I want to take additional cash of
+2018-01-19 17:16:20 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:16:20 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:16:21 INFO  GetAQuote:232 - before select My property is located at
+2018-01-19 17:17:06 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-19 17:17:06 INFO  GetAQuote:234 - after select My property is located at
+2018-01-19 17:17:07 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-19 17:17:07 INFO  GetAQuote:232 - before select My property is a
+2018-01-19 17:17:07 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-19 17:17:07 INFO  GetAQuote:234 - after select My property is a
+2018-01-19 17:17:08 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-19 17:17:08 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-19 17:17:08 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-19 17:17:08 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-19 17:17:08 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:17:08 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:17:09 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:17:09 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:17:09 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:17:09 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:17:10 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:17:10 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:17:10 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:17:11 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-19 17:17:11 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-19 17:17:11 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:17:12 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:17:12 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:17:12 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-19 17:17:13 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:17:13 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:17:13 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-19 17:17:22 INFO  GetAQuote:234 - after select My property is located at
+2018-01-19 17:17:23 INFO  GetAQuote:232 - before select My property is a
+2018-01-19 17:17:23 INFO  GetAQuote:234 - after select My property is a
+2018-01-19 17:17:24 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-19 17:17:24 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-19 17:17:24 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:17:25 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:17:25 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:17:26 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:17:27 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-19 17:17:27 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-19 17:17:28 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:17:29 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:17:29 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:17:29 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-19 17:21:39 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:21:39 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:21:40 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:21:41 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:21:41 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:21:43 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-19 17:21:43 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-19 17:21:45 INFO  GetAQuote:232 - before select My property worth is
+2018-01-19 17:21:46 INFO  GetAQuote:234 - after select My property worth is
+2018-01-19 17:21:46 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:21:46 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:21:47 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:21:48 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:21:48 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:21:49 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-19 17:21:49 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-19 17:21:50 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:21:50 INFO  GetAQuote:232 - before select My existing balance on mortgage/debt
+2018-01-19 17:21:50 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:21:50 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:21:50 INFO  GetAQuote:234 - after select My existing balance on mortgage/debt
+2018-01-19 17:21:51 INFO  GetAQuote:232 - before select I want to take additional cash of
+2018-01-19 17:21:51 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:21:51 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:21:52 INFO  GetAQuote:234 - after select I want to take additional cash of
+2018-01-19 17:21:52 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:21:52 INFO  GetAQuote:232 - before select My property worth is
+2018-01-19 17:21:52 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:21:53 INFO  GetAQuote:234 - after select My property worth is
+2018-01-19 17:21:53 INFO  GetAQuote:232 - before select My property is located at
+2018-01-19 17:21:53 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-19 17:21:54 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-19 17:21:57 INFO  GetAQuote:232 - before select My existing balance on mortgage
+2018-01-19 17:21:57 INFO  GetAQuote:234 - after select My existing balance on mortgage
+2018-01-19 17:21:58 INFO  GetAQuote:232 - before select I can put down
+2018-01-19 17:21:58 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:21:58 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:21:59 INFO  GetAQuote:232 - before select My property is located at
+2018-01-19 17:21:59 INFO  GetAQuote:234 - after select I can put down
+2018-01-19 17:21:59 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:22:00 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:22:00 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-19 17:22:02 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:22:02 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:22:02 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:22:02 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:22:03 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:22:03 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:22:04 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:22:04 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-19 17:22:05 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-19 17:22:05 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-19 17:22:06 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-19 17:22:09 INFO  GetAQuote:232 - before select I can put down
+2018-01-19 17:22:10 INFO  GetAQuote:234 - after select I can put down
+2018-01-19 17:22:10 INFO  GetAQuote:232 - before select I can put down
+2018-01-19 17:22:10 INFO  GetAQuote:258 - Executiong the exceed property value
+2018-01-19 17:22:10 INFO  GetAQuote:234 - after select I can put down
+2018-01-19 17:22:11 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:22:11 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:22:12 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-19 17:22:55 INFO  GetAQuote:234 - after select My property is located at
+2018-01-19 17:22:56 INFO  GetAQuote:232 - before select My property is a
+2018-01-19 17:22:56 INFO  GetAQuote:234 - after select My property is a
+2018-01-19 17:22:57 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-19 17:22:57 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-19 17:22:57 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:22:58 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:22:59 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:22:59 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:23:00 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-19 17:23:00 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-19 17:23:01 INFO  GetAQuote:234 - after select My property is located at
+2018-01-19 17:23:01 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:23:01 INFO  GetAQuote:232 - before select My property is a
+2018-01-19 17:23:01 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-19 17:23:01 INFO  GetAQuote:234 - after select My property is a
+2018-01-19 17:23:02 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-19 17:23:02 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:23:02 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-19 17:23:02 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-19 17:23:02 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-19 17:23:02 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:23:02 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-19 17:23:02 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-19 17:23:02 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:23:03 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-19 17:23:03 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:23:03 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:23:04 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:23:04 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:23:04 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:23:04 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:23:05 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-19 17:23:05 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:23:05 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:23:05 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-19 17:23:06 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:23:06 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:23:06 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:23:07 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:23:07 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-19 17:23:07 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:23:07 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-19 17:23:12 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-19 17:23:13 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-19 17:23:13 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-19 17:23:14 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-19 17:23:14 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-19 17:23:14 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:23:15 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:23:15 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:23:16 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:23:16 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:23:17 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:23:18 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:23:18 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-19 17:34:35 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:34:35 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:34:35 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:34:36 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:34:36 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:34:38 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-19 17:34:38 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-19 17:34:40 INFO  GetAQuote:232 - before select My property worth is
+2018-01-19 17:34:41 INFO  GetAQuote:234 - after select My property worth is
+2018-01-19 17:34:45 INFO  GetAQuote:232 - before select My existing balance on mortgage/debt
+2018-01-19 17:34:46 INFO  GetAQuote:234 - after select My existing balance on mortgage/debt
+2018-01-19 17:34:46 INFO  GetAQuote:232 - before select I want to take additional cash of
+2018-01-19 17:34:47 INFO  GetAQuote:234 - after select I want to take additional cash of
+2018-01-19 17:34:47 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:34:47 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:34:48 INFO  GetAQuote:232 - before select My property is located at
+2018-01-19 17:35:50 INFO  GetAQuote:234 - after select My property is located at
+2018-01-19 17:35:50 INFO  GetAQuote:232 - before select My property is a
+2018-01-19 17:35:51 INFO  GetAQuote:234 - after select My property is a
+2018-01-19 17:35:51 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-19 17:35:51 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-19 17:35:52 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:35:52 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:35:53 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:35:53 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:35:54 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-19 17:35:54 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-19 17:35:55 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:35:56 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:35:56 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:35:56 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-19 17:40:01 INFO  GetAQuote:130 - Validate +flow
+2018-01-19 17:40:01 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-19 17:40:01 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-19 17:40:02 INFO  GetAQuote:232 - before select I am looking to
+2018-01-19 17:40:02 INFO  GetAQuote:234 - after select I am looking to
+2018-01-19 17:40:04 INFO  GetAQuote:232 - before select I want to refinance my existing mortgage to
+2018-01-19 17:40:04 INFO  GetAQuote:234 - after select I want to refinance my existing mortgage to
+2018-01-19 17:40:06 INFO  GetAQuote:232 - before select My property worth is
+2018-01-19 17:40:07 INFO  GetAQuote:234 - after select My property worth is
+2018-01-19 17:40:11 INFO  GetAQuote:232 - before select My existing balance on mortgage/debt
+2018-01-19 17:40:12 INFO  GetAQuote:234 - after select My existing balance on mortgage/debt
+2018-01-19 17:40:12 INFO  GetAQuote:232 - before select I want to take additional cash of
+2018-01-19 17:40:13 INFO  GetAQuote:234 - after select I want to take additional cash of
+2018-01-19 17:40:13 INFO  GetAQuote:232 - before select My credit score is
+2018-01-19 17:40:14 INFO  GetAQuote:234 - after select My credit score is
+2018-01-19 17:40:14 INFO  GetAQuote:232 - before select My property is located at
+2018-01-19 17:41:16 INFO  GetAQuote:234 - after select My property is located at
+2018-01-19 17:41:16 INFO  GetAQuote:232 - before select My property is a
+2018-01-19 17:41:17 INFO  GetAQuote:234 - after select My property is a
+2018-01-19 17:41:17 INFO  GetAQuote:232 - before select I am using the property as
+2018-01-19 17:41:17 INFO  GetAQuote:234 - after select I am using the property as
+2018-01-19 17:41:18 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-19 17:41:18 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-19 17:41:20 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-19 17:41:20 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-19 17:41:21 INFO  GetAQuote:232 - before select My monthly mortgage payment is
+2018-01-19 17:41:21 INFO  GetAQuote:234 - after select My monthly mortgage payment is
+2018-01-19 17:41:22 INFO  GetAQuote:232 - before select My total assets are
+2018-01-19 17:41:23 INFO  GetAQuote:234 - after select My total assets are
+2018-01-19 17:41:23 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-19 17:41:23 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-23 13:14:08 INFO  GetAQuote:130 - Validate +flow
+2018-01-23 13:14:08 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-23 13:14:08 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-23 13:14:09 INFO  GetAQuote:232 - before select I am looking to
+2018-01-23 13:14:10 INFO  GetAQuote:234 - after select I am looking to
+2018-01-23 13:14:11 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-23 13:14:12 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-23 13:14:12 INFO  GetAQuote:232 - before select I can put down
+2018-01-23 13:14:13 INFO  GetAQuote:234 - after select I can put down
+2018-01-23 13:14:14 INFO  GetAQuote:232 - before select My credit score is
+2018-01-23 13:14:14 INFO  GetAQuote:234 - after select My credit score is
+2018-01-23 13:14:14 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-23 13:15:16 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-23 13:15:17 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-23 13:15:17 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-23 13:15:17 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-23 13:15:18 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-23 13:15:18 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-23 13:15:19 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-23 13:15:19 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-23 13:15:20 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-23 13:15:20 INFO  GetAQuote:232 - before select My total assets are
+2018-01-23 13:15:21 INFO  GetAQuote:234 - after select My total assets are
+2018-01-23 13:15:21 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-23 13:15:22 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-23 13:16:47 INFO  GetAQuote:130 - Validate +flow
+2018-01-23 13:16:47 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-23 13:16:48 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-23 13:16:48 INFO  GetAQuote:232 - before select I am looking to
+2018-01-23 13:16:49 INFO  GetAQuote:234 - after select I am looking to
+2018-01-23 13:16:50 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-23 13:16:51 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-23 13:16:52 INFO  GetAQuote:232 - before select I can put down
+2018-01-23 13:16:52 INFO  GetAQuote:234 - after select I can put down
+2018-01-23 13:16:53 INFO  GetAQuote:232 - before select My credit score is
+2018-01-23 13:16:53 INFO  GetAQuote:234 - after select My credit score is
+2018-01-23 13:16:54 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-23 13:17:55 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-23 13:17:56 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-23 13:17:56 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-23 13:17:57 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-23 13:17:57 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-23 13:17:57 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-23 13:17:58 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-23 13:17:58 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-23 13:17:59 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-23 13:17:59 INFO  GetAQuote:232 - before select My total assets are
+2018-01-23 13:18:00 INFO  GetAQuote:234 - after select My total assets are
+2018-01-23 13:18:01 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-23 13:18:01 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-23 13:20:28 INFO  GetAQuote:130 - Validate +flow
+2018-01-23 13:20:28 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-23 13:20:28 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-23 13:20:29 INFO  GetAQuote:232 - before select I am looking to
+2018-01-23 13:20:29 INFO  GetAQuote:234 - after select I am looking to
+2018-01-23 13:20:31 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-23 13:20:32 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-23 13:20:32 INFO  GetAQuote:232 - before select I can put down
+2018-01-23 13:20:33 INFO  GetAQuote:234 - after select I can put down
+2018-01-23 13:20:34 INFO  GetAQuote:232 - before select My credit score is
+2018-01-23 13:20:34 INFO  GetAQuote:234 - after select My credit score is
+2018-01-23 13:20:34 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-23 13:21:36 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-23 13:21:36 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-23 13:21:36 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-23 13:21:37 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-23 13:21:37 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-23 13:21:37 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-23 13:21:38 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-23 13:21:38 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-23 13:21:39 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-23 13:21:39 INFO  GetAQuote:232 - before select My total assets are
+2018-01-23 13:21:40 INFO  GetAQuote:234 - after select My total assets are
+2018-01-23 13:21:41 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-23 13:21:41 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-23 13:22:57 INFO  GetAQuote:130 - Validate +flow
+2018-01-23 13:22:57 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-23 13:22:57 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-23 13:22:58 INFO  GetAQuote:232 - before select I am looking to
+2018-01-23 13:22:58 INFO  GetAQuote:234 - after select I am looking to
+2018-01-23 13:23:00 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-23 13:23:01 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-23 13:23:01 INFO  GetAQuote:232 - before select I can put down
+2018-01-23 13:23:02 INFO  GetAQuote:234 - after select I can put down
+2018-01-23 13:23:02 INFO  GetAQuote:232 - before select My credit score is
+2018-01-23 13:23:03 INFO  GetAQuote:234 - after select My credit score is
+2018-01-23 13:23:03 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-23 13:24:05 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-23 13:24:06 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-23 13:24:06 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-23 13:24:06 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-23 13:24:07 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-23 13:24:07 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-23 13:24:08 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-23 13:24:08 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-23 13:24:09 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-23 13:24:09 INFO  GetAQuote:232 - before select My total assets are
+2018-01-23 13:24:10 INFO  GetAQuote:234 - after select My total assets are
+2018-01-23 13:24:10 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-23 13:24:11 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-23 13:26:56 INFO  GetAQuote:130 - Validate +flow
+2018-01-23 13:26:56 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-23 13:26:56 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-23 13:26:57 INFO  GetAQuote:232 - before select I am looking to
+2018-01-23 13:26:57 INFO  GetAQuote:234 - after select I am looking to
+2018-01-23 13:26:59 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-23 13:27:00 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-23 13:27:00 INFO  GetAQuote:232 - before select I can put down
+2018-01-23 13:27:01 INFO  GetAQuote:234 - after select I can put down
+2018-01-23 13:27:01 INFO  GetAQuote:232 - before select My credit score is
+2018-01-23 13:27:02 INFO  GetAQuote:234 - after select My credit score is
+2018-01-23 13:27:02 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-23 13:28:05 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-23 13:28:05 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-23 13:28:05 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-23 13:28:06 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-23 13:28:06 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-23 13:28:07 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-23 13:28:07 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-23 13:28:08 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-23 13:28:08 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-23 13:28:09 INFO  GetAQuote:232 - before select My total assets are
+2018-01-23 13:28:09 INFO  GetAQuote:234 - after select My total assets are
+2018-01-23 13:28:10 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-23 13:28:10 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-23 13:29:16 INFO  GetAQuote:130 - Validate +flow
+2018-01-23 13:29:16 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-23 13:29:17 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-23 13:29:17 INFO  GetAQuote:232 - before select I am looking to
+2018-01-23 13:29:18 INFO  GetAQuote:234 - after select I am looking to
+2018-01-23 13:29:19 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-23 13:29:20 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-23 13:29:20 INFO  GetAQuote:232 - before select I can put down
+2018-01-23 13:29:21 INFO  GetAQuote:234 - after select I can put down
+2018-01-23 13:29:21 INFO  GetAQuote:232 - before select My credit score is
+2018-01-23 13:29:22 INFO  GetAQuote:234 - after select My credit score is
+2018-01-23 13:29:22 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-23 13:30:23 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-23 13:30:23 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-23 13:30:24 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-23 13:30:24 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-23 13:30:24 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-23 13:30:25 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-23 13:30:25 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-23 13:30:26 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-23 13:30:26 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-23 13:30:27 INFO  GetAQuote:232 - before select My total assets are
+2018-01-23 13:30:28 INFO  GetAQuote:234 - after select My total assets are
+2018-01-23 13:30:28 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-23 13:30:28 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-23 13:32:04 INFO  GetAQuote:130 - Validate +flow
+2018-01-23 13:32:04 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-23 13:32:04 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-23 13:32:06 INFO  GetAQuote:232 - before select I am looking to
+2018-01-23 13:32:06 INFO  GetAQuote:234 - after select I am looking to
+2018-01-23 13:32:07 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-23 13:32:08 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-23 13:32:08 INFO  GetAQuote:232 - before select I can put down
+2018-01-23 13:32:09 INFO  GetAQuote:234 - after select I can put down
+2018-01-23 13:32:10 INFO  GetAQuote:232 - before select My credit score is
+2018-01-23 13:32:10 INFO  GetAQuote:234 - after select My credit score is
+2018-01-23 13:32:11 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-23 13:33:12 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-23 13:33:13 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-23 13:33:13 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-23 13:33:14 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-23 13:33:14 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-23 13:33:14 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-23 13:33:15 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-23 13:33:15 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-23 13:33:16 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-23 13:33:16 INFO  GetAQuote:232 - before select My total assets are
+2018-01-23 13:33:17 INFO  GetAQuote:234 - after select My total assets are
+2018-01-23 13:33:18 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-23 13:33:18 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-23 14:43:52 INFO  GetAQuote:130 - Validate +flow
+2018-01-23 14:43:52 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-23 14:43:52 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-23 14:43:53 INFO  GetAQuote:232 - before select I am looking to
+2018-01-23 14:43:53 INFO  GetAQuote:234 - after select I am looking to
+2018-01-23 14:43:55 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-23 14:43:56 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-23 14:43:56 INFO  GetAQuote:232 - before select I can put down
+2018-01-23 14:43:57 INFO  GetAQuote:234 - after select I can put down
+2018-01-23 14:43:58 INFO  GetAQuote:232 - before select My credit score is
+2018-01-23 14:43:58 INFO  GetAQuote:234 - after select My credit score is
+2018-01-23 14:43:58 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-23 14:45:00 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-23 14:45:01 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-23 14:45:01 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-23 14:45:02 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-23 14:45:02 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-23 14:45:02 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-23 14:45:03 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-23 14:45:03 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-23 14:45:04 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-23 14:45:04 INFO  GetAQuote:232 - before select My total assets are
+2018-01-23 14:45:05 INFO  GetAQuote:234 - after select My total assets are
+2018-01-23 14:45:06 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-23 14:45:06 INFO  GetAQuote:234 - after select I am a veteran
+2018-01-30 17:50:55 INFO  GetAQuote:130 - Validate +flow
+2018-01-30 17:50:55 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-01-30 17:50:56 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-01-30 17:50:57 INFO  GetAQuote:232 - before select I am looking to
+2018-01-30 17:50:57 INFO  GetAQuote:234 - after select I am looking to
+2018-01-30 17:50:58 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-01-30 17:50:59 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-01-30 17:50:59 INFO  GetAQuote:232 - before select I can put down
+2018-01-30 17:51:00 INFO  GetAQuote:234 - after select I can put down
+2018-01-30 17:51:00 INFO  GetAQuote:232 - before select My credit score is
+2018-01-30 17:51:01 INFO  GetAQuote:234 - after select My credit score is
+2018-01-30 17:51:01 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-01-30 17:51:13 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-01-30 17:51:14 INFO  GetAQuote:232 - before select I plan to buy a
+2018-01-30 17:51:14 INFO  GetAQuote:234 - after select I plan to buy a
+2018-01-30 17:51:14 INFO  GetAQuote:232 - before select I will use this property as
+2018-01-30 17:51:15 INFO  GetAQuote:234 - after select I will use this property as
+2018-01-30 17:51:15 INFO  GetAQuote:232 - before select My annual gross income is
+2018-01-30 17:51:16 INFO  GetAQuote:234 - after select My annual gross income is
+2018-01-30 17:51:16 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-01-30 17:51:17 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-01-30 17:51:17 INFO  GetAQuote:232 - before select My total assets are
+2018-01-30 17:51:18 INFO  GetAQuote:234 - after select My total assets are
+2018-01-30 17:51:19 INFO  GetAQuote:232 - before select I am a veteran
+2018-01-30 17:51:19 INFO  GetAQuote:234 - after select I am a veteran
+2018-02-09 17:09:48 INFO  GetAQuote:130 - Validate +flow
+2018-02-09 17:09:49 INFO  GetAQuote:232 - before select I am a first time home buyer
+2018-02-09 17:09:49 INFO  GetAQuote:234 - after select I am a first time home buyer
+2018-02-09 17:09:50 INFO  GetAQuote:232 - before select I am looking to
+2018-02-09 17:09:50 INFO  GetAQuote:234 - after select I am looking to
+2018-02-09 17:09:52 INFO  GetAQuote:232 - before select I plan to buy property worth
+2018-02-09 17:09:52 INFO  GetAQuote:234 - after select I plan to buy property worth
+2018-02-09 17:09:53 INFO  GetAQuote:232 - before select I can put down
+2018-02-09 17:09:53 INFO  GetAQuote:234 - after select I can put down
+2018-02-09 17:09:54 INFO  GetAQuote:232 - before select My credit score is
+2018-02-09 17:09:54 INFO  GetAQuote:234 - after select My credit score is
+2018-02-09 17:09:54 INFO  GetAQuote:232 - before select I plan to buy a property at
+2018-02-09 17:10:57 INFO  GetAQuote:234 - after select I plan to buy a property at
+2018-02-09 17:10:57 INFO  GetAQuote:232 - before select I plan to buy a
+2018-02-09 17:10:57 INFO  GetAQuote:234 - after select I plan to buy a
+2018-02-09 17:10:58 INFO  GetAQuote:232 - before select I will use this property as
+2018-02-09 17:10:58 INFO  GetAQuote:234 - after select I will use this property as
+2018-02-09 17:10:58 INFO  GetAQuote:232 - before select My annual gross income is
+2018-02-09 17:10:59 INFO  GetAQuote:234 - after select My annual gross income is
+2018-02-09 17:10:59 INFO  GetAQuote:232 - before select My monthly expenses are
+2018-02-09 17:11:00 INFO  GetAQuote:234 - after select My monthly expenses are
+2018-02-09 17:11:00 INFO  GetAQuote:232 - before select My total assets are
+2018-02-09 17:11:01 INFO  GetAQuote:234 - after select My total assets are
+2018-02-09 17:11:01 INFO  GetAQuote:232 - before select I am a veteran
+2018-02-09 17:11:02 INFO  GetAQuote:234 - after select I am a veteran
+2018-02-16 15:00:45 INFO  GetAQuote:130 - Validate +flow
+2018-02-16 15:02:45 INFO  GetAQuote:293 - Login Prompt not displayed
+2018-02-16 15:05:45 INFO  GetAQuote:293 - Login Prompt not displayed

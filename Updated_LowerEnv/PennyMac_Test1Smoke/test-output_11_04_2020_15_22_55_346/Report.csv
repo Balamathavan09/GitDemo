@@ -1,0 +1,41 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Wed Nov 04 15:09:37 IST 2020,
+End Date   :  Wed Nov 04 15:22:51 IST 2020,
+Total Duration :0 Hours 13 Minutes 14 Seconds,
+Total Pass : 1,
+Total Fail : 1,
+Executed By : TI12215-BLR-L/sweata.shaw/OS-Windows 10,
+Groups: ppp,,
+URL :https://pnmac-cdp-qa.tavant.com/,
+Browser : Chrome 
+FE_LoanOnboarding001:Smoke Scenario Borrower-New User and Co-Borrower-Existing User LoanOnboarding With TestData :100:FE_Facta-001,Pass,Duration: 0 Hours 11 Minutes 4 Seconds
+FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b,Fail,Failed TestCase :FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b<br><table border="1"> <tr> <th>StepId</th> <th>Action Name</th> <th>Package Name</th> <th>Custom Method Name</th></tr><tr><td>4</td><td></td><td>com.finx.util.LoginIntoApplication</td><td>verifyAllMail</td></tr></table>
+Mismatch in displayed and expected mail template :<font color="solid orange">  Actual :[
+ TEMPLATE>MacPortal,
+To get started, log in to our mortgage access center (m.a.c) using your existing PennyMac username and password to provide your e-Consent to transact with us electronically.*
+Select e-Sign/e-Disclosures Requests block.
+Click the Complete Tasks button on your loan.
+Select Review Electronic Consent.
+
+Your personal link expires in 24 hours.
+Built with you in mind, our m.a.c allows you to access your application 24/7; view document requests, upload documents and check your application using any of your electronic devices.
+Sincerely,
+Your Home Loan Team
+PennyMac Loan Services, LLC
+NMLS ID #35953(844) 917-3669*You are not required to provide any documentation at this time. Please note once you decide to move forward with your loan application, you will need to provide the requested documents in order for your loan to proceed.
+This is an automated message. Please do not reply to this email–you will not receive a response.
+URL: https://cancer.pnmacgears.com/finexpprequal/preOnboardcheck?applicantIndex=0&loanNumber=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJUYXZhbnQiLCJhdWQiOiJGaW5FeHBDbGllbnQiLCJjdGltZSI6MTYwNDM5ODg4MDEwMywiZXRpbWUiOjE2MDQ1NzE2ODAxMDMsImluZm8iOnsidXNlcklkIjoibTVGZTZRcm1QZ2RKTXh5cy82ZWlES3Z5MjRzcFZ2dkNYaStIdWpRNlkzR080ZDBVQVJiYUJwZlVrWUxpYVpQLyJ9fQ.0977GT49CJNj6jtws_8oQvD-uEmToA60JdNVg0_ufUA&userId=loanonboard@yopmail.comEqual Housing Opportunity © 2020 PennyMac Loan Services, LLC, 3043 Townsgate Rd, Suite 200, Westlake Village, CA 91361, 818-224-7442. NMLS ID # 35953 (www.nmlsconsumeraccess.org). Trade/service marks are the property of PennyMac Loan Services, LLC and/or its subsidiaries or affiliates. Arizona Mortgage Banker License # 0911088. Licensed by the Department of Business Oversight under the California Residential Mortgage Lending Act. Colorado office: 700 17th St, Suite 200, Denver, CO 80202, (866) 436-4766. Georgia Residential Mortgage Licensee #33027. Massachusetts Mortgage Lender License # ML35953. Minnesota: This is not an offer to enter into an agreement and an offer may only be made pursuant to Minn. Stat. §47.206 (3) & (4). Licensed by the N.J. Department of Banking and Insurance. North Carolina Permit No. 104753, 112228, 112874, 112877, 113746. Rhode Island Lender License # 20092600LL. Texas office: 2201 W. Plano Parkway, Suites 150 and 300, Plano, TX 75075. Washington Consumer Loan License # CL-35953. For more information, review PennyMac’s state licenses and important notices. Loans not available in New York. Some products may not be available in all states. Information, rates and pricing are subject to change without prior notice at the sole discretion of PennyMac Loan Services, LLC. All loan programs subject to borrowers meeting appropriate underwriting conditions. This is not a commitment to lend. Other restrictions apply. All rights reserved. (2-2020)]</font><font color="EE7600"> Expected :[
+ EXCEL DATA>Welcome to PennyMac! To get started, log in to our mortgage access center (m.a.c) using your existing PennyMac username and password to provide your e-Consent to transact with us electronically.*
+Select e-Sign/e-Disclosures Requests block.
+Click the Complete Tasks button on your loan.
+Select Review Electronic Consent.
+
+Your personal link expires in 48 hours.
+We’re here to support you every step of the way. If you have questions, or are unable to log in, please call us using the number below. We look forward to assisting you with your PennyMac Home Loan.
+Sincerely,
+Your Home Loan Team
+PennyMac Loan Services, LLC
+NMLS ID #35953(844) 917-3669*You are not required to provide any documentation at this time. Please note once you decide to move forward with your loan application, you will need to provide the requested documents in order for your loan to proceed.
+This is an automated message. Please do not reply to this email–you will not receive a response.
+URL: https://cancer.pnmacgears.com/finexpprequal/preOnboardcheck?applicantIndex=0&loanNumber=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJUYXZhbnQiLCJhdWQiOiJGaW5FeHBDbGllbnQiLCJjdGltZSI6MTYwNDM5ODg4MDEwMywiZXRpbWUiOjE2MDQ1NzE2ODAxMDMsImluZm8iOnsidXNlcklkIjoibTVGZTZRcm1QZ2RKTXh5cy82ZWlES3Z5MjRzcFZ2dkNYaStIdWpRNlkzR080ZDBVQVJiYUJwZlVrWUxpYVpQLyJ9fQ.0977GT49CJNj6jtws_8oQvD-uEmToA60JdNVg0_ufUA&userId=loanonboard@yopmail.comEqual Housing Opportunity © 2020 PennyMac Loan Services, LLC, 3043 Townsgate Rd, Suite 200, Westlake Village, CA 91361, 818-224-7442. NMLS ID # 35953 (www.nmlsconsumeraccess.org). Trade/service marks are the property of PennyMac Loan Services, LLC and/or its subsidiaries or affiliates. Arizona Mortgage Banker License # 0911088. Licensed by the Department of Business Oversight under the California Residential Mortgage Lending Act. Colorado office: 700 17th St, Suite 200, Denver, CO 80202, (866) 436-4766. Georgia Residential Mortgage Licensee #33027. Massachusetts Mortgage Lender License # ML35953. Minnesota: This is not an offer to enter into an agreement and an offer may only be made pursuant to Minn. Stat. §47.206 (3) & (4). Licensed by the N.J. Department of Banking and Insurance. North Carolina Permit No. 104753, 112228, 112874, 112877, 113746. Rhode Island Lender License # 20092600LL. Texas office: 2201 W. Plano Parkway, Suites 150 and 300, Plano, TX 75075. Washington Consumer Loan License # CL-35953. For more information, review PennyMac’s state licenses and important notices. Loans not available in New York. Some products may not be available in all states. Information, rates and pricing are subject to change without prior notice at the sole discretion of PennyMac Loan Services, LLC. All loan programs subject to borrowers meeting appropriate underwriting conditions. This is not a commitment to lend. Other restrictions apply. All rights reserved. (2-2020)]</font><br> <b>Step Details:</b> <br><br> Duration>0 Hours 2 Minutes 6 Seconds

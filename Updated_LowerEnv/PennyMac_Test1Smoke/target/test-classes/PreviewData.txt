@@ -1,0 +1,70 @@
+First Name_get started;My name is&First name
+Middle Name_get started;My name is&Middle name (Optional)
+Last Name_get started;My name is&Last name
+Suffix_get started;My name is&Suffix (Optional)
+Home Phone_get started;My contact details are&Best Contact Number
+Mobile Phone_get started;My contact details are&Alternate Number (Optional)
+Date of Birth_get started;I was born on&I was born on
+First Time Home Buyer?_get started;Are you a first-time homebuyer?&Are you a first-time homebuyer?
+Loan Purpose_get started;What is the purpose of this loan?&What is the purpose of this loan?
+Referral Source_get started;My referral source is&My referral source is
+Additional details_get started;Additional details&Referral name/description (Optional)
+Veteran?_get started;I have (or my deceased spouse has) served, or I am currently serving, in the United States Armed Forces?&I have (or my deceased spouse has) served, or I am currently serving, in the United States Armed Forces?
+Branch of service is_get started;My branch of service is&My branch of service is
+Service status_get started;My service status&My service status
+Service is related to_get started;My service is related to&My service is related to
+Dependents_get started;I have dependents&I have dependents
+In what type of property do you currently reside?_get started;In my current property, I&In my current property, I
+Current Address (Street Address line 1)_get started;My current address is&Street address line 1
+Current Address (Street Address line 2)_get started;My current address is&Street address line 2 (Optional)
+Zip Code_get started;My current address is&Zip Code
+Years_get started;My current address is&Years
+Months_get started;My current address is&Months (Optional)
+Marital status_get started;My marital status&My marital status
+Estimated Property Value_property;Estimated Property Value&Estimated Property Value
+Property type_property;I am purchasing a&I am purchasing a
+I can put a down payment of_property;I can put a down payment of&Down payment
+Occupancy type_property;I will use this property as&I will use this property as
+Zip Code_property;The property is located at&Zip Code (Optional)
+Are there any outstanding judgements against you?_declarations;Are there any outstanding judgments against you?&Are there any outstanding judgments against you?
+Have you been declared bankrupt within the past 7 years?_declarations;Have you been declared bankrupt within the past 7 years?&Have you been declared bankrupt within the past 7 years?
+Have you had property foreclosed upon or given title or deed in lieu thereof in the last 7 years?_declarations;Have you had property foreclosed upon or given title or deed in lieu thereof in the last 7 years?&Have you had property foreclosed upon or given title or deed in lieu thereof in the last 7 years?
+Are you a party to a lawsuit?_declarations;Are you a party to a lawsuit?&Are you a party to a lawsuit?
+Have you directly or indirectly been obligated on any loan which resulted in foreclosure, transfer of title in lieu of foreclosure, or judgment?_declarations;Have you directly or indirectly been obligated on any loan which resulted in foreclosure, transfer of title in lieu of foreclosure, or judgment?&Have you directly or indirectly been obligated on any loan which resulted in foreclosure, transfer of title in lieu of foreclosure, or judgment?
+Are you presently delinquent or in default on any Federal debt or any other loan, mortgage, financial obligation, bond, or loan guarantee?_declarations;Are you presently delinquent or in default on any Federal debt or any other loan, mortgage, financial obligation, bond, or loan guarantee?&Are you presently delinquent or in default on any Federal debt or any other loan, mortgage, financial obligation, bond, or loan guarantee?
+Are you obligated to pay alimony, child support, or separate maintenance?_declarations;Are you obligated to pay alimony, child support, or separate maintenance?&Are you obligated to pay alimony, child support, or separate maintenance?
+Is any part of the down payment borrowed?_declarations;Is any part of the down payment borrowed?&Is any part of the down payment borrowed?
+Are you a co-maker or endorser on a note?_declarations;Are you a co-maker or endorser on a note?&Are you a co-maker or endorser on a note?
+Are you a U.S. citizen?_declarations;Are you a U.S. citizen?&Are you a U.S. citizen?
+Are you a permanent resident alien?_declarations;Are you a permanent resident alien?&Are you a permanent resident alien?
+Do you intend to occupy the property as your primary residence?_declarations;Do you intend to occupy the property as your primary residence?&Do you intend to occupy the property as your primary residence?
+Have you had an ownership interest in a property in the last three years?_declarations;Have you had ownership interest in any property in the last three years?&Have you had ownership interest in any property in the last three years?
+Ethnicity_declarations;Ethnicity&Ethnicity
+Race_declarations;Race&Race
+Gender_declarations;Sex&Sex
+Source of Income_income;Source of Income&Source of Income
+Business Name_income;My business details&Business name
+Street Address Line 1_income;My business details&Street address line 1
+Street Address Line 2_income;My business details&Street address line 2 (Optional)
+Zip Code_income;My business details&Zip Code
+Employer Phone_income;My business details&Business phone
+Percentage of Ownership_income;My business details&Percentage of ownership
+Starting Date of Employment_income;Business details&I have had full/partial ownership in this business since
+End Date of Employment_income;Business details&To
+Gross Income_income;Business details&Monthly Adjusted Gross Income
+Asset Type_assets;My asset type&My asset type
+Depository Name_assets;Provide asset details&Account with
+Account Number_assets;Provide asset details&Account number (Optional)
+Amount_assets;Provide asset details&Amount
+Co-Borrower/Account Holder_assets;Provide asset details&Held jointly with (Optional)
+Description_assets;Provide asset details&Description (Optional)
+Street Address line 1_real estate;My other property is located at&Street address line 1
+Street Address line 2_real estate;My other property is located at&Street address line 2 (Optional)
+Zip Code_real estate;My other property is located at&Zip Code
+Property Status_real estate;My other property is&Property status
+Estimated Property Value_real estate;My other property is&Estimated property value
+Property type_real estate;My property is a&My property is a
+Outstanding Balance_real estate;My other property is&Outstanding balance
+Monthly Mortgage Payments_real estate;My other property is&Monthly mortgage payments
+Insurance, Maintenance, Taxes & Misc_real estate;My other property is&Does this include insurance, taxes and fees?
+Owns jointly with_real estate;My other property is&I own jointly with

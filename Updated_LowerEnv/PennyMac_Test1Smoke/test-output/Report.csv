@@ -1,0 +1,13 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Wed Nov 04 16:07:16 IST 2020,
+End Date   :  Wed Nov 04 16:29:50 IST 2020,
+Total Duration :0 Hours 22 Minutes 34 Seconds,
+Total Pass : 2,
+Total Fail : 0,
+Executed By : TI12215-BLR-L/sweata.shaw/OS-Windows 10,
+Groups: ppp,,
+URL :https://pnmac-cdp-qa.tavant.com/,
+Browser : Chrome 
+FE_LoanOnboarding001:Smoke Scenario Borrower-New User and Co-Borrower-Existing User LoanOnboarding With TestData :100:FE_Facta-001,Pass,Duration: 0 Hours 14 Minutes 18 Seconds
+FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b,Pass,Duration: 0 Hours 8 Minutes 14 Seconds

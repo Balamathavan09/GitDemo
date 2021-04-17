@@ -1,0 +1,262 @@
+
+Loan number is 7202193685
+Applicant Info
+My name is;TA%First name_ Alice:ta%Middle name (Optional)_abc: ta%Last name_ Firstimer : RB %Suffix (Optional)_Sr.&&
+
+My contact details are;ta%Best Contact Number_343-243-5345:rdd%?Best Contact Number_Home
+&&
+I was born on;12/12/1990
+&&
+Are you a first-time homebuyer?;No
+&&
+What is the purpose of this loan?;Purchase
+&&
+  Property is located in;ta%Zip Code (Optional)_50066 && Are you working with a real estate agent?;No && Would you like to be connected with a local agent?;Yes &&
+I have (or my deceased spouse has) served, or I am currently serving, in the United States Armed Forces?; Yes
+&&
+My branch of service is; Air Force
+&&
+My service status; In service
+&&
+My service is related to; National Guard
+&&
+I have dependents;No
+&& 
+In my current property, I;Own
+&&
+My current address is;ta%Street address line 1_9991 Warford Street:ta%Street address line 2 (Optional)_abc Koramangala:ta%Zip Code_50066:ta%Years_2:ta%Months (Optional)_3:CB%This is my mailing address_This is my mailing address
+&& 
+My marital status;Unmarried
+Loan number is 7202193685
+Applicant Info
+My name is;TA%First name_ Alice:ta%Middle name (Optional)_abc: ta%Last name_ Firstimer : RB %Suffix (Optional)_Sr.&&
+
+My contact details are;ta%Best Contact Number_343-243-5345:rdd%?Best Contact Number_Home
+&&
+I was born on;12/12/1990
+&&
+Are you a first-time homebuyer?;No
+&&
+What is the purpose of this loan?;Purchase
+&&
+  Property is located in;ta%Zip Code (Optional)_50066 && Are you working with a real estate agent?;No && Would you like to be connected with a local agent?;Yes &&
+I have (or my deceased spouse has) served, or I am currently serving, in the United States Armed Forces?; Yes
+&&
+My branch of service is; Air Force
+&&
+My service status; In service
+&&
+My service is related to; National Guard
+&&
+I have dependents;No
+&& 
+In my current property, I;Own
+&&
+My current address is;ta%Street address line 1_9991 Warford Street:ta%Street address line 2 (Optional)_abc Koramangala:ta%Zip Code_50066:ta%Years_2:ta%Months (Optional)_3:CB%This is my mailing address_This is my mailing address
+&& 
+My marital status;Unmarried
+Loan number is 7202193685
+Applicant Info
+00785e7d-4082-4a7e-9c99-5c8185c73d8c
+Loan number is 7202193685
+Applicant Info
+No verification for This section in current testcase
+Loan number is 7202193685
+Applicant Info
+null
+Loan number is 7202193685
+Applicant Info
+null
+Loan number is 7202193685
+Applicant Info
+null
+Loan number is 7202193685
+Applicant Info
+null
+Loan number is 7202193685
+Applicant Info
+No verification for This section in current testcase
+Loan number is 7202218390
+Applicant Info
+My name is;TA%First name_ Alice:ta%Middle name (Optional)_abc: ta%Last name_ Firstimer : RB %Suffix (Optional)_Sr.&&
+
+My contact details are;ta%Best Contact Number_343-243-5345:rdd%?Best Contact Number_Home
+&&
+I was born on;12/12/1990
+&&
+Are you a first-time homebuyer?;No
+&&
+What is the purpose of this loan?;Purchase
+&&
+  Property is located in;ta%Zip Code (Optional)_50066 && Are you working with a real estate agent?;No && Would you like to be connected with a local agent?;Yes &&
+I have (or my deceased spouse has) served, or I am currently serving, in the United States Armed Forces?; Yes
+&&
+My branch of service is; Air Force
+&&
+My service status; In service
+&&
+My service is related to; National Guard
+&&
+I have dependents;No
+&& 
+In my current property, I;Own
+&&
+My current address is;ta%Street address line 1_9991 Warford Street:ta%Street address line 2 (Optional)_abc Koramangala:ta%Zip Code_50066:ta%Years_2:ta%Months (Optional)_3:CB%This is my mailing address_This is my mailing address
+&& 
+My marital status;Unmarried
+Loan number is 7202236392
+GetStarted Info
+
+Loan number is 7202236392
+GetStarted Info
+
+Declarations
+
+Loan number is 7202236392
+GetStarted Info
+
+Declarations
+
+RealEstate
+
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Street Address] Actual Value:-[abc koramangala,abc Koramangala] expected Value:-[353454dfgfgh]
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Zip Code] Actual Value:-[90001] expected Value:-[56001]
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Estimated prValue] Actual Value:-[10000] expected Value:-[4364564654]
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Outstanding Balance] Actual Value:-[25000] expected Value:-[756567567]
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Monthly Mortgage Payment] Actual Value:-[3000] expected Value:-[657757]
+Loan number is 7202240264
+GetStarted Info
+
+Declarations
+
+RealEstate
+
+Loan number is 7202240324
+GetStarted Info
+
+Encompass Data not matching for field-->[
+Co-Borrower Email Address] Actual Value:-[coapplicant@mailinator.com] expected Value:-[coapplicant@mailinator.co]
+Encompass Data not matching for field-->[
+Co-Borrower I was born on] Actual Value:-[3/30/1972] expected Value:-[null]
+Encompass Data not matching for field-->[
+Co-Borrower Year (Current Address)] Actual Value:-[2] expected Value:-[null]
+Declarations
+
+RealEstate
+
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Street Address] Actual Value:-[abc koramangala,abc Koramangala] expected Value:-[abc koramangal,abc Koramangal]
+Loan number is 7202236392
+GetStarted Info
+
+Declarations
+
+RealEstate
+
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Street Address] Actual Value:-[abc koramangala,abc Koramangala] expected Value:-[353454dfgfgh]
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Zip Code] Actual Value:-[90001] expected Value:-[56001]
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Estimated prValue] Actual Value:-[10000] expected Value:-[4364564654]
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Outstanding Balance] Actual Value:-[25000] expected Value:-[756567567]
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Monthly Mortgage Payment] Actual Value:-[3000] expected Value:-[657757]
+Loan number is 7202240264
+GetStarted Info
+
+Declarations
+
+RealEstate
+
+Loan number is 7202240739
+GetStarted Info
+
+Declarations
+
+RealEstate
+
+Loan number is 7202317772
+GetStarted Info
+
+Encompass Data not matching for field-->[Co-Borrower First Name] Actual Value:-[TERRY] expected Value:-[Mary]
+Encompass Data not matching for field-->[
+Co-Borrower Last Name] Actual Value:-[CREDCO] expected Value:-[Homeowner]
+Encompass Data not matching for field-->[
+Co-Borrower Street Address(Current Address)] Actual Value:-[PO BOX 192351] expected Value:-[175 13th Street,abc Koramangala]
+Encompass Data not matching for field-->[
+Co-Borrower Zipcode(Current Address)] Actual Value:-[77219] expected Value:-[20013]
+Encompass Data not matching for field-->[ 
+Co-Borrower City(Current Address)] Actual Value:-[HOUSTON] expected Value:-[WASHINGTON]
+Encompass Data not matching for field-->[
+Co-Borrower Street Address(Mailing Address)] Actual Value:-[PO BOX 192351] expected Value:-[175 13th Street,abc Koramangala]
+Encompass Data not matching for field-->[
+Co-Borrower Zipcode(Mailing Address)] Actual Value:-[77219] expected Value:-[20013]
+Encompass Data not matching for field-->[
+Co-Borrower City(Mailing Address)] Actual Value:-[HOUSTON] expected Value:-[WASHINGTON]
+Declarations
+
+RealEstate
+
+Encompass Data not matching for field-->[
+Co-Borrower RealEstate Street Address] Actual Value:-[abc koramangala,abc Koramangala] expected Value:-[abc koramangal,abc Koramangal]
+Loan number is 7202317963
+GetStarted Info
+
+Encompass Data not matching for field-->[Co-Borrower First Name] Actual Value:-[TERRY] expected Value:-[Mary]
+Encompass Data not matching for field-->[
+Co-Borrower Last Name] Actual Value:-[CREDCO] expected Value:-[Homeowner]
+Encompass Data not matching for field-->[
+Co-Borrower Street Address(Current Address)] Actual Value:-[PO BOX 192351] expected Value:-[175 13th Street,abc Koramangala]
+Encompass Data not matching for field-->[
+Co-Borrower Zipcode(Current Address)] Actual Value:-[77219] expected Value:-[20013]
+Encompass Data not matching for field-->[ 
+Co-Borrower City(Current Address)] Actual Value:-[HOUSTON] expected Value:-[WASHINGTON]
+Encompass Data not matching for field-->[
+Co-Borrower Street Address(Mailing Address)] Actual Value:-[PO BOX 192351] expected Value:-[175 13th Street,abc Koramangala]
+Encompass Data not matching for field-->[
+Co-Borrower Zipcode(Mailing Address)] Actual Value:-[77219] expected Value:-[20013]
+Encompass Data not matching for field-->[
+Co-Borrower City(Mailing Address)] Actual Value:-[HOUSTON] expected Value:-[WASHINGTON]
+Declarations
+
+RealEstate
+
+Loan number is 7202435724
+GetStarted Info
+
+Declarations
+
+RealEstate
+
+Loan number is 7202435724
+
+Income
+
+Loan number is 7202435762
+GetStarted Info
+
+Declarations
+
+Income
+
+RealEstate
+
+Assets
+
+Loan number is 7202598997
+Applicant Info
+
+Encompass Data not matching for field-->[
+Borrower  Email Address] Actual Value:-[pncdpqa@gmail.com] expected Value:-[loanonboard@gmail.com]
+Property
+
+Encompass Data not matching for field-->[
+Estimated balance] Actual Value:-[null] expected Value:-[100000]
+Declarations

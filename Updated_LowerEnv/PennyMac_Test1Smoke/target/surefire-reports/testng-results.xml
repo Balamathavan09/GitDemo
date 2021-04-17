@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1354048" started-at="2020-11-04T10:37:16Z" finished-at="2020-11-04T10:59:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1354048" started-at="2020-11-04T10:37:16Z" finished-at="2020-11-04T10:59:50Z">
+      <class name="com.tavant.kwutils.MyTestCaseExecuter">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b" name="beforeSuite" is-config="true" duration-ms="27" started-at="2020-11-04T10:37:16Z" finished-at="2020-11-04T10:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b" name="beforeClass" is-config="true" duration-ms="9" started-at="2020-11-04T10:37:16Z" finished-at="2020-11-04T10:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase()[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b" name="testCase" duration-ms="494144" started-at="2020-11-04T10:37:16Z" finished-at="2020-11-04T10:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b" name="afterMethod" is-config="true" duration-ms="817" started-at="2020-11-04T10:45:30Z" finished-at="2020-11-04T10:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b" name="closeDriver" is-config="true" duration-ms="5" started-at="2020-11-04T10:45:31Z" finished-at="2020-11-04T10:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding001:Smoke Scenario Borrower-New User and Co-Borrower-Existing User LoanOnboarding With TestData :100:FE_Facta-001" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-11-04T10:45:31Z" finished-at="2020-11-04T10:45:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[none]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase()[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@564fabe7]" test-instance-name="FE_LoanOnboarding001:Smoke Scenario Borrower-New User and Co-Borrower-Existing User LoanOnboarding With TestData :100:FE_Facta-001" name="testCase" duration-ms="858219" started-at="2020-11-04T10:45:31Z" finished-at="2020-11-04T10:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding001:Smoke Scenario Borrower-New User and Co-Borrower-Existing User LoanOnboarding With TestData :100:FE_Facta-001" name="afterMethod" is-config="true" duration-ms="783" started-at="2020-11-04T10:59:49Z" finished-at="2020-11-04T10:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding001:Smoke Scenario Borrower-New User and Co-Borrower-Existing User LoanOnboarding With TestData :100:FE_Facta-001" name="closeDriver" is-config="true" duration-ms="1" started-at="2020-11-04T10:59:50Z" finished-at="2020-11-04T10:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.tavant.kwutils.MyTestCaseExecuter@16d04d5c]" test-instance-name="FE_LoanOnboarding002:Smoke Scenario Borrower LoanOnboarding With TestData :17bc:FE_1003-117b" name="afterSuite" is-config="true" duration-ms="3653" started-at="2020-11-04T10:59:50Z" finished-at="2020-11-04T10:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.tavant.kwutils.MyTestCaseExecuter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

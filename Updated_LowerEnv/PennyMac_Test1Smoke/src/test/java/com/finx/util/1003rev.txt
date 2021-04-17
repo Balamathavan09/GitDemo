@@ -1,0 +1,252 @@
+public HashMap<String, String> selectAttribute(WebDriver driver, String attribute, int qusIndex, HashMap<String, String> expectedMap,
+			String qustion) throws Exception {
+		String State = null,City = null;
+ 		String val = expectedMap.get(qustion);
+ 		boolean isDownPaymentOptionDisplayed = qustion.contains("I can put a down payment of");
+ 		boolean isQuestionRelatedToSpouse = qustion.equalsIgnoreCase("Provide spouse details");
+ 		System.out.println("Attribute name>>>>"+attribute);
+		switch (attribute.toLowerCase()) {
+		case "radiobtn":
+			System.out.println("Attribute name>>>>"+attribute);
+			String[] sub_fields = val.split(":");
+			String radioButtonXPath = radioButtonAns.replace("%s", String.valueOf(qusIndex)).replace("%v", val);
+			if(sub_fields.length == 1){
+				selectRadioButton(driver, radioButtonXPath);
+			
+			}else{
+				expectedMap = selectMultipleOptionUnderQuestion(driver,expectedMap,qustion,qusIndex, val,expectedMap.size());
+				//clickOnOKButtonIfExists(driver,qusIndex,expectedMap.size());
+				
+			}			
+			break;
+		case "currency":
+			enterValuesInCurrencyField(driver,qusIndex,val,isDownPaymentOptionDisplayed);
+			clickOnOkButtonAfterEachQuestion(driver, qusIndex,expectedMap.size());
+			break;
+		case "dateformat":	
+			enterValuesInDateField(driver,qusIndex,val);
+			clickOnOkButtonAfterEachQuestion(driver, qusIndex,expectedMap.size());
+			break;
+			
+		default:
+			if(isQuestionRelatedToSpouse){
+				driver.switchTo().activeElement();
+				driver.findElement(By.xpath(spouseQtnModalWindow)).click();
+				//Thread.sleep(2000);
+				driver.switchTo().defaultContent();				
+ 			} else{
+ 				expectedMap = selectMultipleOptionUnderQuestion(driver,expectedMap,qustion,qusIndex, val,expectedMap.size());
+ 				//clickOnOKButtonIfExists(driver,qusIndex,expectedMap.size());
+ 			}
+			
+			break;
+		} 
+		
+		
+		return expectedMap;
+	}
+	
+
+	private void selectRadioButton(WebDriver driver,String xpathExpression) throws Exception{
+		try{
+			driver.findElement(By.xpath(xpathExpression)).click();
+		}catch(Exception e){
+			addExceptionToReport("Radio Button "+xpathExpression+" is not displayed.", "", "");
+		}
+	}
+
+	private HashMap<String,String> selectMultipleOptionUnderQuestion(WebDriver driver,HashMap<String,String> dataMap,String question,Integer qusIndex,String options,Integer totalQtnCount) throws Exception{
+		String[] optionList = options.split(":");
+		String refFieldType = "";
+		for(String option:optionList){
+			String[] field_type = option.trim().split("%");
+			String[] placeholder_value = (field_type[1].trim()).split("_");  
+			String placeholder = placeholder_value[0].trim();	 		
+			String value = placeholder_value[1]; 
+			String stateCity = "";
+			String fieldType = field_type[0].trim().toLowerCase();
+			System.out.println("Place holder name>>>>"+placeholder+" and place holder value>>>>"+value+" field tupe>>>>"+fieldType);
+			if(fieldType.equalsIgnoreCase("RB")){
+				fieldType = "radiobutton";
+			}
+			refFieldType = fieldType;
+			
+			switch (fieldType) {
+			case "ta":
+				stateCity = enterValuesInTextField(driver, qusIndex, placeholder, value);
+				if(stateCity != null){
+					dataMap.put(question, stateCity);
+				}
+				break;
+			case "rb":
+				selectRadioButton(driver, radioButtonAns.replace("%s", String.valueOf(qusIndex)).replace("%v", value));
+				break;
+			case "dd":	
+				System.out.println("Under drop down>>>>question idex>>>"+qusIndex+" and placeholder value>>>>"+placeholder+" and it value is >>>>"+value);
+				selectValuesInDropDownList(driver,qusIndex, placeholder, value);
+				break;
+			case "cb":			
+				clickOnCheckBox(driver,value);
+				break;
+			case "radiobutton":
+				selectRadioButtonOption(driver,qusIndex,value);
+				break;			
+			case "datepicker":
+				setValuesInDateField(driver,placeholder,value);
+				break;
+			case "fromto":
+				setValuesInDateField(driver,placeholder,value);
+				break;
+			default:				
+				break;
+			}
+			
+		}
+		
+		if(refFieldType.trim().equalsIgnoreCase("radiobutton") == false || refFieldType.trim().equalsIgnoreCase("rb") == false){
+			System.out.println("Refernce fields type>>>>"+refFieldType);
+			Thread.sleep(1000);
+			clickOnOkButtonAfterEachQuestion(driver, qusIndex,totalQtnCount);
+		}
+
+		return dataMap;
+	}
+
+private void enterValuesInCurrencyField(WebDriver driver,Integer qusIndex,String value,boolean isDownPaymentOptionDisplayed) throws Exception{
+		try{
+			driver.findElement(By.xpath(inputText.replace("%s", String.valueOf(qusIndex)))).clear();	
+			driver.findElement(By.xpath(inputText.replace("%s", String.valueOf(qusIndex)))).sendKeys(value);
+			Thread.sleep(3000);		
+			if(isDownPaymentOptionDisplayed){
+				try{
+					driver.findElement(By.xpath(OkayBUtton1.replace("%s", String.valueOf(qusIndex)))).click();
+				}catch(Exception e){
+					addExceptionToReport("Ok Button is not displayed under Down Payment Option.", "", "");
+				}
+				  
+			}
+		}catch(Exception e){
+			addExceptionToReport("Currency Field under question Index "+qusIndex+" is not displayed.", "", "");
+		}
+	
+	}
+
+	private void clickOnOkButtonAfterEachQuestion(WebDriver driver,Integer qusIndex,Integer totalQuestionCount) throws Exception{
+		try{
+			
+			System.out.println("qusIndex>>>>>"+qusIndex+" totalQuestionCount>>>>"+totalQuestionCount);
+			
+			System.out.println("Ok Button xpath>>>>>"+OkayBUtton1.replace("%s", String.valueOf(qusIndex)));
+			WebElement okButton = driver.findElement(By.xpath(OkayBUtton1.replace("%s", String.valueOf(qusIndex))));
+			System.out.println("ook button is displayed under ok button action>>>>");
+			if(okButton.isDisplayed() == false){
+				utill.scrollToElement(okButton);
+			}			
+			okButton.click();
+			System.out.println("Clicked on Ok Button");
+			int revisedQusIndex = qusIndex+1;
+			if(revisedQusIndex < totalQuestionCount){
+				try{
+					
+					if( driver.findElement(By.xpath(Qustion.replace("%s", String.valueOf(revisedQusIndex)))).isDisplayed()){
+						
+					}
+				}catch(Exception e2){
+					try{
+						if(driver.findElements(By.xpath("//confirm-modal-new//button")).size()>0){
+					}
+						driver.findElement(By.xpath("//confirm-modal-new//button[1]")).click();
+						driver.switchTo().defaultContent();
+						Thread.sleep(2000);
+						okButton.click();
+					}catch(Exception e3){	
+						String postloginOptions = step.getDataValue("PostloginOptions");
+							postLoginOption(postloginOptions);
+						
+					}
+					
+				}
+			}
+			
+		}catch(Exception e4){
+	
+			System.out.println("Exception in ok button>>>>"+e4.toString());
+			//addExceptionToReport("OK Button is not displayed after question whose Index is "+qusIndex, "", "");
+		}	
+			
+	}
+
+	private void enterValuesInDateField(WebDriver driver,Integer qusIndex,String value){
+		driver.findElement(By.xpath(dateOfBirth.replace("%s", String.valueOf(qusIndex)))).click();
+		driver.findElement(By.xpath(dateOfBirth.replace("%s", String.valueOf(qusIndex)))).sendKeys(value);;
+	}
+
+	private String enterValuesInTextField(WebDriver driver,Integer qusIndex,String placeHolderName,String value ) throws Exception{
+		String state =null;
+		String city = null;
+		try{
+			System.out.println("Question Index>>>>"+qusIndex+" and place holder name>>>>"+placeHolderName+" and its value>>>>"+value);
+			driver.findElement(By.xpath(sub_ans_text.replace("%s", String.valueOf(qusIndex)).replace("%placeholder", placeHolderName))).click();
+			driver.findElement(By.xpath(sub_ans_text.replace("%s", String.valueOf(qusIndex)).replace("%placeholder", placeHolderName))).clear();
+			driver.findElement(By.xpath(sub_ans_text.replace("%s", String.valueOf(qusIndex)).replace("%placeholder", placeHolderName))).sendKeys(value); 
+			if(placeHolderName.trim().equalsIgnoreCase("zipcode")){
+				utill.waitForElements(driver.findElement(By.xpath(".//*[@class='loader-holder']/p")));
+				Thread.sleep(4000);
+				state = driver.findElement(By.xpath("(.//*[@class='zipcode-information']//button)[1]")).getAttribute("value");
+				city = driver.findElement(By.xpath("(.//*[@class='zipcode-information']//button)[2]")).getAttribute("value");
+				System.out.println("ta%State_" + state + ":ta%City_" + city);
+				
+				return "ta%State_" + state + ":ta%City_" + city;
+			}
+		
+		}catch(Exception e){
+			addExceptionToReport("Expected placeholder "+placeHolderName+" is not displayed under Question whose Index is "+qusIndex+" and Exception is "+e.getMessage().toString(), "", "");
+		}
+		return null;
+	}
+
+	private void selectRadioButton(WebDriver driver,String xpathExpression) throws Exception{
+		try{
+			driver.findElement(By.xpath(xpathExpression)).click();
+		}catch(Exception e){
+			addExceptionToReport("Radio Button "+xpathExpression+" is not displayed.", "", "");
+		}
+	}
+	
+	private void selectValuesInDropDownList(WebDriver driver,Integer qusIndex,String placeholder,String expectedValue) throws Exception{
+		String revisedDDObject = dd.replace("%s", String.valueOf(qusIndex)).replace("%t", String.valueOf(placeholder));
+		String searchInputField = revisedDDObject+"//following-sibiling::ul/div/input";
+		try{
+			driver.findElement(By.xpath(revisedDDObject)).click();	
+			Thread.sleep(2000);		
+				try{
+					driver.findElement(By.xpath(sub_ans_dropdown_value1.replace("%val", expectedValue))).click();
+				}catch(Exception e){
+					addExceptionToReport("Expected value "+expectedValue+" is not displayed in drop down list under place holder "+placeholder, "", "");
+				}			
+		}catch(Exception e){
+			addExceptionToReport("Placeholder "+placeholder+" is not displayed under Question whose Index is  "+String.valueOf(qusIndex), "", "");
+		}		
+	}
+	
+	private void clickOnCheckBox(WebDriver driver,String placeholder){
+		driver.findElement(By.xpath(sub_ans_checkbox.replace("%labeltext", placeholder))).click();
+	}
+
+	private void selectRadioButtonOption(WebDriver driver,Integer qusIndex,String expectedValue) throws Exception{
+		try{
+			driver.findElement(By.xpath(sub_ans_radiobutton.replace("%s", String.valueOf(qusIndex)).replace("%radioButtonName", expectedValue))).click();
+		}catch(Exception e){
+			addExceptionToReport("Radio Button option "+expectedValue+" under question index "+qusIndex+" selection failed." , "", "");
+		}
+		
+	}
+	
+	private void setValuesInDateField(WebDriver driver,String placeholder,String expectedValue) throws Exception{
+		try{
+			driver.findElement(By.xpath(Sub_ans_datepicker.replace("%datelabel", placeholder))).sendKeys(expectedValue); 
+		}catch(Exception e){
+			addExceptionToReport("Setting values in date field "+placeholder+" failed.", "", "");
+		}
+		
+	}
